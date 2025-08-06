@@ -26,9 +26,10 @@ Složka: `gymnazium/FlapyBird/`
 
 ---
 
-##  Složka `vysoka_skola/`
+##  Složka `vysokaSkola/`
 
 Zde najdeš ukázky mých řešení dvou programovacích úloh (z celkových 15), které byly součástí výuky na vysoké škole.
+Zadání obouch úloh je ve složce jako obrázek.
 
 ### 1. `linker/` – Implementace zjednodušeného linkeru
 
