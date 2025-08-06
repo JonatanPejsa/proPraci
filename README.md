@@ -42,5 +42,5 @@ Zde najdeš ukázky mých řešení dvou programovacích úloh (z celkových 15)
 
 
 
-Projekty jsou určeny ke studijním účelům. Pokud budete chtít celé projekty kontaktujte mě na mail jonatan.pejsa.jp@gmail.com
+Projekty jsou určeny ke studijním účelům. Pokud budete chtít celé projekty nebo více mích prací kontaktujte mě na mail jonatan.pejsa.jp@gmail.com
 
